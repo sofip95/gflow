@@ -21,4 +21,7 @@ public class App {
 		return valorA / valorB;
 	}
 
+	public static String cadena(String a, String b) {
+		return a+b;
+	}
 }
